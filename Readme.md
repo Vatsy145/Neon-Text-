@@ -111,6 +111,8 @@ body{
 
 
 # View
+
+Just change the attribute name,
 ![DRL](https://github.com/Vatsy145/Neon-Text-/assets/80814790/df3690c3-27f1-42f2-9ae2-1afcc1c9b528)
 
 # NB
