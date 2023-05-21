@@ -112,3 +112,8 @@ body{
 
 # View
 ![DRL](https://github.com/Vatsy145/Neon-Text-/assets/80814790/df3690c3-27f1-42f2-9ae2-1afcc1c9b528)
+
+# NB
+If the stylesheet is not in order, use Beautify Extension
+
+![Microsoft VisualStudio Services Icons](https://github.com/Vatsy145/Neon-Text-/assets/80814790/f22aa858-3527-4854-9e70-4236be34b4e1)
